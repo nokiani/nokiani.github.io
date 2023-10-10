@@ -12,6 +12,6 @@ entries:
     name: helm-template
     type: application
     urls:
-    - helm-template-0.1.0.tgz
+    - https://nokiani.github.io/charts/helm-template-0.1.0.tgz
     version: 0.1.0
 generated: "2023-10-10T13:04:47.109427649+06:00"
